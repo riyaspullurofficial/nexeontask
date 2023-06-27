@@ -1,0 +1,2 @@
+const   base_url='https://ajcjewel.com:5000/api/global-gallery/list';
+const  token='eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfdXNlcklkXyI6IjYzMDI2ZjIxNWE5ZDVjNDY1NzQ3MTMxYSIsIl9lbXBsb3llZUlkXyI6IjYzMDI2ZjIxYTI1MTZhMTU0YTUxY2YxOSIsIl91c2VyUm9sZV8iOiJzdXBlcl9hZG1pbiIsImlhdCI6MTY2NjQzMzUxMSwiZXhwIjoxNjk3OTY5NTExfQ.99AkZAY7MJ6nR82r_Sm4FRPZwMpf_zrIUbxtQne0oyw';
